@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const StyledPlaylistitems = styled.div`
+const StyledPlaylistItems = styled.div`
   padding: 0 20px 0 20px;
   overflow-y: auto;
   height: 28vw;
@@ -28,4 +28,4 @@ const StyledPlaylistitems = styled.div`
   }
 `;
 
-export default StyledPlaylistitems;
+export default StyledPlaylistItems;
