@@ -1,7 +1,6 @@
-import React from 'react';
+import React from "react";
+import WbnPlayer from "./WbnPlayer";
 
-const App = () => (
-  <div>Start here!</div>
-)
+const App = () => <WbnPlayer />;
 
 export default App;
